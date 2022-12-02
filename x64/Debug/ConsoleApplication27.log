@@ -1,0 +1,6 @@
+﻿  LinkedList.cpp
+C:\Users\Tasnem\source\repos\ConsoleApplication27\ConsoleApplication27\LinkedList.cpp(26,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tasnem\source\repos\ConsoleApplication27\ConsoleApplication27\LinkedList.cpp(58,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  ConsoleApplication27.vcxproj -> C:\Users\Tasnem\source\repos\ConsoleApplication27\x64\Debug\ConsoleApplication27.exe
